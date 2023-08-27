@@ -24,7 +24,7 @@ I'm passionate about data, analytics, and their potential to drive meaningful in
 
 ## Repository Structure
 
-- `01_Introduction_to_Data_Science`: This directory contains my initial learning materials, resources, and code snippets as I begin my journey.
+- [`01_Introduction_to_Data_Science`](https://github.com/lokmanTech/01_Introduction_to_Data_Science): This directory contains my initial learning materials, resources, and code snippets as I begin my journey.
 
 - `02_Machine_Learning_Fundamentals`: Here, I'll document my progress as I deliver into the world of machine learning algorithms and their implementations.
 
