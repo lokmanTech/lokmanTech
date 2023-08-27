@@ -42,7 +42,7 @@ I'm passionate about data, analytics, and their potential to drive meaningful in
 
 ## Stay Connected
 
-Follow along with my journey by starring this repository. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/lhakimnazri/) or reach out via email at lhakim.nazri@gmail.com
+Follow along with my journey by starring this repository. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/lhakimnazri/), [Whatsapp](https://wa.me/+60102115249) or reach out via email at lhakim.nazri@gmail.com
 
 Let's learn, grow, and contribute to the exciting field of data science together! Your support and insights are highly appreciated.
 
