@@ -26,19 +26,19 @@ I'm passionate about data, analytics, and their potential to drive meaningful in
 
 - [`01_Introduction_to_Data_Science`](https://github.com/lokmanTech/01_Introduction_to_Data_Science): This directory contains my initial learning materials, resources, and code snippets as I begin my journey.
 
-- `02_Machine_Learning_Fundamentals`: Here, I'll document my progress as I deliver into the world of machine learning algorithms and their implementations.
+- [`02_Machine_Learning_Fundamentals`](https://github.com/lokmanTech/02_Machine_Learning_Fundamentals): Here, I'll document my progress as I deliver into the world of machine learning algorithms and their implementations.
 
-- `03_Data_Wrangling`: In this section, I'll showcase how I deal with messy, real-world data and convert it into a usable format.
+- [`03_Data_Wrangling`](https://github.com/lokmanTech/03_Data_Wrangling): In this section, I'll showcase how I deal with messy, real-world data and convert it into a usable format.
 
-- `04_Data_Visualization`: You'll find visualizations I create here to represent data insights effectively.
+- [`04_Data_Visualization`](https://github.com/lokmanTech/04_Data_Visualization): You'll find visualizations I create here to represent data insights effectively.
 
-- `05_Advanced_Topics`: As I move forward, this section will contain my explorations of advanced concepts in data science.
+- [`05_Advanced_Topics`](https://github.com/lokmanTech/05_Advanced_Topics): As I move forward, this section will contain my explorations of advanced concepts in data science.
 
-- `06_Projects`: This is where the magic happens. I'll share my data science projects, complete with explanations, code, and results.
+- [`06_Projects`](https://github.com/lokmanTech/06_Projects): This is where the magic happens. I'll share my data science projects, complete with explanations, code, and results.
 
-- `07_Resources`: A curated list of resources that I've found helpful on my journey. Feel free to use these to accelerate your own learning.
+- [`07_Resources`](https://github.com/lokmanTech/07_Resources): A curated list of resources that I've found helpful on my journey. Feel free to use these to accelerate your own learning.
 
-- `08_Blog`: I'll occasionally write blog posts to share my experiences, insights, and challenges. Check this section out for more in-depth narratives.
+- [`08_Blog`](https://github.com/lokmanTech/08_Blog): I'll occasionally write blog posts to share my experiences, insights, and challenges. Check this section out for more in-depth narratives.
 
 ## Stay Connected
 
