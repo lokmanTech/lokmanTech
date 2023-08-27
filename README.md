@@ -4,9 +4,9 @@ Hello there, I'm Lokman Hakim. Welcome to my Data Science journey repository! He
 
 ## About Me
 
-I'm passionate about data, analytics, and their potential to drive meaningful insights and informed decision-making. I come from a background in Architecture, which has provided me with a solid foundation in especially on problem-solving. However, I've always been intrigued by the world of data science and its endless possibilities, which is why I've decided to embark on this journey.
+Unleashing the extraordinary within.
 
-## Goals
+## My Goals
 
 1. **Learn the Fundamentals**: I'll start by diving into the basics of data science, including statistics, programming languages like Python, and data manipulation libraries like Pandas.
 
