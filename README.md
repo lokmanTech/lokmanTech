@@ -26,7 +26,7 @@ I'm passionate about data, analytics, and their potential to drive meaningful in
 
 - `01_Introduction_to_Data_Science`: This directory contains my initial learning materials, resources, and code snippets as I begin my journey.
 
-- `02_Machine_Learning_Fundamentals`: Here, I'll document my progress as I delve into the world of machine learning algorithms and their implementations.
+- `02_Machine_Learning_Fundamentals`: Here, I'll document my progress as I deliver into the world of machine learning algorithms and their implementations.
 
 - `03_Data_Wrangling`: In this section, I'll showcase how I deal with messy, real-world data and convert it into a usable format.
 
