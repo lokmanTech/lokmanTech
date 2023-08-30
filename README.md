@@ -1,6 +1,6 @@
 # My Data-Driven Web Developer Journey
 
-Hello there, I'm Lokman Hakim. Welcome to my Data Science journey repository! Here, I'll be documenting my path towards becoming a proficient Data Scientist. Whether you're a fellow learner, a potential employer, or just someone curious about my progress, I hope you find this repository insightful and motivating.
+Hello there, I'm Lokman Hakim. Welcome to my Data-Driven Web Developer journey repository! Here, I'll be documenting my path towards becoming a proficient data-driven web developer. Whether you're a fellow learner, a potential employer, or just someone curious about my progress, I hope you find this repository insightful and motivating.
 
 ## About Me
 
@@ -8,13 +8,13 @@ Unleashing the extraordinary within.
 
 ## My Goals
 
-1. **Learn the Fundamentals**: I'll start by diving into the basics of data science, including statistics, programming languages like Python, and data manipulation libraries like Pandas.
+1. **Learn the Fundamentals**: I'll start by diving into the basics of data science, web developing, including statistics, programming languages like Python, and data manipulation libraries like Pandas.
 
 2. **Machine Learning Mastery**: I'm excited to understand the intricacies of machine learning algorithms, from linear regression to deep learning. Hands-on projects will be a core aspect of this phase.
 
 3. **Data Wrangling**: Real-world data is often messy. I'll explore techniques to clean, preprocess, and handle data effectively to ensure its quality and reliability.
 
-4. **Data Visualization**: Learning to create compelling visualizations will be crucial. I aim to tell impactful stories through graphs and charts using libraries like Matplotlib and Seaborn.
+4. **Data Visualization**: Learning to create compelling visualizations combining with web-developing skill that will be crucial. I aim to tell impactful stories through graphs and charts using libraries like Matplotlib and Seaborn.
 
 5. **Advanced Topics**: As I progress, I'll tackle more advanced topics such as natural language processing, computer vision, and reinforcement learning, depending on the direction my interests take.
 
