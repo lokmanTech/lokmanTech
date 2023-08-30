@@ -1,4 +1,4 @@
-# Lokman Hakim Data Science Journey
+# Lokman Hakim Journey
 
 Hello there, I'm Lokman Hakim. Welcome to my Data Science journey repository! Here, I'll be documenting my path towards becoming a proficient Data Scientist. Whether you're a fellow learner, a potential employer, or just someone curious about my progress, I hope you find this repository insightful and motivating.
 
