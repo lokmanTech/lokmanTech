@@ -1,4 +1,4 @@
-# My Data-Driven Web Developer Journey
+# My Business Analyst Journey
 
 Hello there, I'm Lokman Hakim. Welcome to my Data-Driven Web Developer journey repository! Here, I'll be documenting my path towards becoming a proficient data-driven web developer. Whether you're a fellow learner, a potential employer, or just someone curious about my progress, I hope you find this repository insightful and motivating.
 
