@@ -43,13 +43,13 @@ I'm Lokman Hakim, passionate about deciphering data's hidden narratives and tran
 
 - [`05_Advanced_Topics`](https://github.com/lokmanTech/05_Advanced_Topics): As I move forward, this section will contain my explorations of advanced concepts in data science.
 
-- [`06 Business Strategy Optimization`](Link to Business Strategy Optimization README): Projects focusing on optimizing business strategies for growth.
+- [`06_Business_Strategy_Optimization`](https://github.com/lokmanTech/06_Business_Strategy_Optimization): Projects focusing on optimizing business strategies for growth.
 
-- [`07 Market Trends Analysis`](Link to Market Trends Analysis README): In-depth insights into market trends and competitive landscapes.
+- [`07_Market_Trends_Analysis`](https://github.com/lokmanTech/07_Market_Trends_Analysis): In-depth insights into market trends and competitive landscapes.
 
-- [`08 Data-Driven Decision Making`](Link to Data-Driven Decision Making README): Examples of how data guides strategic decisions.
+- [`08_Data-Driven_Decision_Making`](https://github.com/lokmanTech/08_Data-Driven_Decision_Making): Examples of how data guides strategic decisions.
 
-- [`09 Business Science Toolbox`](Link to Business Science Toolbox README): Tools and resources I've developed to facilitate data-driven strategies.
+- [`09_Business_Science_Toolbox`](https://github.com/lokmanTech/09_Business_Science_Toolbox): Tools and resources I've developed to facilitate data-driven strategies.
 
 - [`10_Projects`](https://github.com/lokmanTech/06_Projects): This is where the magic happens. I'll share my business science projects, complete with explanations, code, and results. These projects aim to showcase my analytical abilities, strategic thinking, and commitment to data-driven decision-making.
 
