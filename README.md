@@ -1,10 +1,10 @@
-# My Business Analyst Journey
+# My Business Scientist Journey | Bridging Data and Strategy
 
-Hello there, I'm Lokman Hakim. Welcome to my Data-Driven Web Developer journey repository! Here, I'll be documenting my path towards becoming a proficient data-driven web developer. Whether you're a fellow learner, a potential employer, or just someone curious about my progress, I hope you find this repository insightful and motivating.
+Welcome! Lokman here, I'm on a captivating journey as a Business Scientist, where data-driven insights meet strategic decision-making. This repository is a testament to my exploration of the dynamic intersection of data science and business strategy.
 
 ## About Me
 
-Unleashing the extraordinary within.
+I'm Lokman Hakim, passionate about deciphering data's hidden narratives and translating them into strategies that drive success. My background in as Project Architect, Sr. Strategist & Operation Manager equips me with a unique blend of analytical skills and strategic acumen.
 
 ## My Goals
 
@@ -22,6 +22,15 @@ Unleashing the extraordinary within.
 
 7. **Collaboration and Learning**: I'm open to collaboration and feedback. Feel free to reach out if you're interested in learning together or if you have valuable insights to share.
 
+8. **Master Data-Driven Decision Making**: To become proficient in using data to drive strategic business decisions.
+
+9. **Contribute to Impactful Projects**: To contribute my skills to projects that positively impact organizations and society.
+
+10. **Share Knowledge and Insights**: To share my knowledge and insights with the broader data science and business communities.
+
+11. **Continuous Learning**: To continually learn and adapt in the fast-evolving field of Business Science.
+
+
 ## Repository Structure
 
 - [`01_Introduction_to_Data_Science`](https://github.com/lokmanTech/01_Introduction_to_Data_Science): This directory contains my initial learning materials, resources, and code snippets as I begin my journey.
@@ -34,17 +43,27 @@ Unleashing the extraordinary within.
 
 - [`05_Advanced_Topics`](https://github.com/lokmanTech/05_Advanced_Topics): As I move forward, this section will contain my explorations of advanced concepts in data science.
 
-- [`06_Projects`](https://github.com/lokmanTech/06_Projects): This is where the magic happens. I'll share my data science projects, complete with explanations, code, and results.
+- [`06 Business Strategy Optimization`](Link to Business Strategy Optimization README): Projects focusing on optimizing business strategies for growth.
 
-- [`07_Resources`](https://github.com/lokmanTech/07_Resources): A curated list of resources that I've found helpful on my journey. Feel free to use these to accelerate your own learning.
+- [`07 Market Trends Analysis`](Link to Market Trends Analysis README): In-depth insights into market trends and competitive landscapes.
 
-- [`08_Blog`](https://github.com/lokmanTech/08_Blog): I'll occasionally write blog posts to share my experiences, insights, and challenges. Check this section out for more in-depth narratives.
+- [`08 Data-Driven Decision Making`](Link to Data-Driven Decision Making README): Examples of how data guides strategic decisions.
+
+- [`09 Business Science Toolbox`](Link to Business Science Toolbox README): Tools and resources I've developed to facilitate data-driven strategies.
+
+- [`10_Projects`](https://github.com/lokmanTech/06_Projects): This is where the magic happens. I'll share my business science projects, complete with explanations, code, and results. These projects aim to showcase my analytical abilities, strategic thinking, and commitment to data-driven decision-making.
+
+- [`11_Resources`](https://github.com/lokmanTech/07_Resources): A curated list of resources that I've found helpful on my journey. Feel free to use these to accelerate your own learning.
+
+- [`12_Blog`](https://github.com/lokmanTech/08_Blog): I'll occasionally write blog posts to share my experiences, insights, and challenges. Check this section out for more in-depth narratives.
 
 ## Stay Connected
 
-Follow along with my journey by starring this repository. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/lhakimnazri/), [Whatsapp](https://wa.me/+60102115249) or reach out via email at lhakim.nazri@gmail.com
+I'm enthusiastic about connecting with fellow Business Scientists, business analysts, data analyst, data scientist and data-driven strategists. Feel free to reach out to me on:
 
-Let's learn, grow, and contribute to the exciting field of data science together! Your support and insights are highly appreciated.
+- [LinkedIn](https://www.linkedin.com/in/lhakimnazri/)
+- [Whatsapp](https://wa.me/+60102115249)
+- email at lhakim.nazri@gmail.com
 
 Happy coding and analyzing!
 
