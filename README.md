@@ -19,7 +19,7 @@ Welcome to my GitHub space! I'm Lokman Hakim which passionate in tech and thrive
 
 - **[`04_Data_Visualization`](https://github.com/lokmanTech/04_Data_Visualization)** Data Visualization: You'll find visualizations I create here to represent data insights effectively. Learning to create compelling visualizations combining with web-developing skill that will be crucial. I aim to tell impactful stories through graphs and charts using libraries like Matplotlib and Seaborn.
 
-- **[`05_Advanced_Topics`](https://github.com/lokmanTech/05_Advanced_Topics)** Advanced Topics:As I move forward, this section will contain my explorations of advanced concepts in data science. As I progress, I'll tackle more advanced topics such as natural language processing, computer vision, and reinforcement learning, depending on the direction my interests take.
+- **[`05_Advanced_Topics`](https://github.com/lokmanTech/05_Advanced_Topics)** Advanced Topics: As I move forward, this section will contain my explorations of advanced concepts in data science. As I progress, I'll tackle more advanced topics such as natural language processing, computer vision, and reinforcement learning, depending on the direction my interests take.
 
 - **[`06_Business_Strategy_Optimization`](https://github.com/lokmanTech/06_Business_Strategy_Optimization)** Navigate the Future with Precision:  Projects focusing on optimizing business strategies for growth. This repository startegically to dive into the world of data-driven, insights and optimization techniques to fine-tune your business strategies. 
 
