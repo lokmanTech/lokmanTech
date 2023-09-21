@@ -10,7 +10,7 @@ Welcome to my GitHub space! I'm Lokman Hakim which passionate about all things t
 
 
 ## Repository Structure
-- [`01_Fundamental_of_All`](https://github.com/lokmanTech/01_Introduction_to_Data_Science): **Learn the Fundamentals** : This directory contains my initial learning materials, resources, and code snippets as I begin my journey.  I'll start by diving into the basics of data science, cloud engineer, web developing, including statistics, programming languages like Python, and data manipulation libraries like Pandas.
+- **[`01_Fundamental_of_All`](https://github.com/lokmanTech/01_Introduction_to_Data_Science): Learn the Fundamentals** : This directory contains my initial learning materials, resources, and code snippets as I begin my journey.  I'll start by diving into the basics of data science, cloud engineer, web developing, including statistics, programming languages like Python, and data manipulation libraries like Pandas.
 
 - [`02_Machine_Learning_Fundamentals`](https://github.com/lokmanTech/02_Machine_Learning_Fundamentals): **Machine Learning Mastery** : Here, I'll document my progress as I deliver into the world of machine learning algorithms and their implementations. I'm excited to understand the intricacies of machine learning algorithms, from linear regression to deep learning. Hands-on projects will be a core aspect of this phase.
 
