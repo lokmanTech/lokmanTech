@@ -1,4 +1,4 @@
-# Tech Enthusiast and Continous Explorer 🚀
+# Tech Enthusiast and Explorer 🚀
 
 Welcome to my GitHub space! I'm Lokman Hakim which passionate in tech and thrive on the thrill of exploring new horizons in the ever-evolving world of technology. Here, you'll find a collection of my projects, experiments, and ongoing learning journey in tech domains.
 
