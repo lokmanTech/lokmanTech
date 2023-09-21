@@ -9,7 +9,7 @@ Welcome to my GitHub space! I'm Lokman Hakim which passionate in tech and thrive
 **Versatility:** My interests into software development and beyond. I enjoy the versatility of technology and love to dabble in diverse areas.
 
 
-## Repository Structure
+## 🧭 Repository Structure
 
 - **[`01_Fundamental_of_All`](https://github.com/lokmanTech/01_Introduction_to_Data_Science)** Learn the Fundamentals: This directory contains my initial learning materials, resources, and code snippets as I begin my journey.  I'll start by diving into the basics of data science, cloud engineer, web developing, including statistics, programming languages like Python, and data manipulation libraries like Pandas.
 
