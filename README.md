@@ -10,7 +10,7 @@ Welcome to my GitHub space! I'm Lokman Hakim which passionate in tech and thrive
 
 ## 📁 [`My Portfolio`](https://lokmantech.github.io)
 
-Discover a collection of projects that reflect my skills and dedication. Explore my professional journey, delve into industry insights on my blog, and connect with me to explore collaborative opportunities. For more information, check out my [`Online Portfolio](https://lokmantech.github.io), and view also my [`Google badge`](https://prestariang.qwiklabs.com/public_profiles/ea5f8464-8ae0-426b-8d36-e183cf422554).
+Discover a collection of projects that reflect my skills and dedication. Explore my professional journey, delve into industry insights on my blog, and connect with me to explore collaborative opportunities. For more information, check out my [`Online Portfolio`](https://lokmantech.github.io), and view also my [`Google badge`](https://prestariang.qwiklabs.com/public_profiles/ea5f8464-8ae0-426b-8d36-e183cf422554).
 
 ## 🧭 Repository Structure
 
