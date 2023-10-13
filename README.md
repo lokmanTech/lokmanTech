@@ -1,16 +1,16 @@
 # Tech Enthusiast and Explorer 🚀
 
-Welcome to my GitHub space! I'm Lokman Hakim which passionate about tech and thrives on the thrill of exploring new horizons in the ever-evolving world of technology. Here, you'll find a collection of my projects, experiments, and ongoing learning journeys in tech domains.
+Welcome to my GitHub space! I'm Lokman Hakim who is passionate about tech and thrives on the thrill of exploring new horizons in the ever-evolving world of technology. Here, you'll find a collection of my projects, experiments, and ongoing learning journeys in tech domains.
 
 ## 🌟 What I'm All About
 
 **Continuous Learning:** I believe that the journey of knowledge never truly ends. I'm committed to honing my skills, staying current with tech trends, and embracing the spirit of lifelong learning.
 
-**Versatility:** My interest in software development and beyond. I enjoy the versatility of technology and love to dabble in diverse areas.
+**Versatility:** My interest in software development and beyond I enjoy the versatility of technology and love to dabble in diverse areas.
 
 ## 📁 [`My Portfolio`](https://lokmantech.github.io)
 
-Discover a collection of projects that reflect my skills dedicated in my professional journey, delve into industry insights on my blog, and connect with me to explore collaborative opportunities. For more information, check out my [`Online Portfolio`](https://lokmantech.github.io), and view also my [`Google badge`](https://prestariang.qwiklabs.com/public_profiles/ea5f8464-8ae0-426b-8d36-e183cf422554).
+Discover a collection of projects that reflect my skills dedicated to my professional journey, delve into industry insights on my blog, and connect with me to explore collaborative opportunities. For more information, check out my [`Online Portfolio`](https://lokmantech.github.io), and view also my [`Google badge`](https://prestariang.qwiklabs.com/public_profiles/ea5f8464-8ae0-426b-8d36-e183cf422554).
 
 ## 🧭 Repository Structure
 
@@ -22,19 +22,6 @@ Discover a collection of projects that reflect my skills dedicated in my profess
 - **[`Resources`](https://github.com/lokmanTech/Resources)** Your Knowledge Hub for Business Success: A curated list of resources that I've found helpful on my journey Feel free to use these to accelerate your own learning.
 
 - **[`Blog`](https://github.com/lokmanTech/Blog)** Collaboration, Learning, & Sharing: I'll occasionally write blog posts to share my experiences, insights, and challenges. Check this section out for more in-depth narratives. I'm open to collaboration and feedback. Feel free to reach out if you're interested in learning together or if you have valuable insights to share.
-
-### Front-End Development Repositories
-- **[`UI/UX Design Project`](https://github.com/lokmanTech/UI-UX_Design_Project)** A showcase of my UI/UX design project created using Adobe XD
-
-- **[`HTML Templates`](https://github.com/lokmanTech/HTML_Templates)** Website Front Page for All: Well-structured and semantic HTML templates that can serve as a starting point for web projects.
-
-- **[`CSS/SCSS Demonstrations`](https://github.com/lokmanTech/CSS-SCSS_Demonstrations)** Demonstrating CSS styling templates: A repository containing various CSS and SCSS styles and components I have created just for you
-
-- **[`JavaScript Development`](https://github.com/lokmanTech/JavaScript_Development)** A collection of JavaScript projects I've developed, demonstrating my coding skills
-
-- **[`Framework or Library Integration`](https://github.com/lokmanTech/Framework_or_Library_Intergration)** An e-commerce web application built with React showcases my front-end development expertise.
-
-- **[`Front-End Continuation`](https://github.com/lokmanTech/Front-End_Continuation)** The continuation of the front-end field ensures workability to achieve the objective. It starts from scratching the UI/UX design process, developing the HMTL pages, Cascade the styles, interactivity, and functionality of the web page with JavaScript, integrating the framework with relevant tools, adapting the responsive website, testing the browser to address any compatibility issues or bugs that may arise, enhancing and optimizing the web performance, doing an accessibility (a11y) check, testing and debugging, and using version control systems like Git to track changes. Documentation: prepare the project for deployment by setting up domain names and ensuring the files are properly hosted.
 
 ### Data Science Repositories
 - **[`Machine Learning Fundamentals`](https://github.com/lokmanTech/Machine_Learning_Fundamentals)** Machine learning mastery: Here, I'll document my progress as I dive into the world of machine learning algorithms and their implementations. I'm excited to understand the intricacies of machine learning algorithms, from linear regression to deep learning. Hands-on projects will be a core aspect of this phase.
