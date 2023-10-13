@@ -15,29 +15,44 @@ Discover a collection of projects that reflect my skills dedicated in my profess
 ## 🧭 Repository Structure
 
 ### General Repositories
-- **[`Fundamental_of_All`](https://github.com/lokmanTech/Fundamental_of_All)** Learn the Fundamentals: This directory contains my initial learning materials, resources, and code snippets as I begin my journey.  I'll start by diving into the basics of data science, cloud engineer, web developing, including statistics, programming languages like Python, and data manipulation libraries like Pandas.
+- **[`Fundamental_of_All`](https://github.com/lokmanTech/Fundamental_of_All)** Learn the fundamentals: This directory contains my initial learning materials, resources, and code snippets as I begin my journey.  I'll start by diving into the basics of data science, cloud engineering, and web development, including statistics, programming languages like Python, and data manipulation libraries like Pandas.
 
 - **[`Projects`](https://github.com/lokmanTech/Projects)** Projects, Projects, Projects: This is where the magic happens. I'll share my business science projects, complete with explanations, code, and results. These projects aim to showcase my analytical abilities, strategic thinking, and commitment to data-driven decision-making. I believe in learning by doing. I'll be working on hands-on projects that simulate real-world scenarios to apply what I've learned and showcase my skills.
 
-- **[`Resources`](https://github.com/lokmanTech/Resources)** Your Knowledge Hub for Business Success: A curated list of resources that I've found helpful on my journey. Feel free to use these to accelerate your own learning.
+- **[`Resources`](https://github.com/lokmanTech/Resources)** Your Knowledge Hub for Business Success: A curated list of resources that I've found helpful on my journey Feel free to use these to accelerate your own learning.
 
-- **[`Blog`](https://github.com/lokmanTech/Blog)** Collaboration, Learning & Share: I'll occasionally write blog posts to share my experiences, insights, and challenges. Check this section out for more in-depth narratives. I'm open to collaboration and feedback. Feel free to reach out if you're interested in learning together or if you have valuable insights to share.
+- **[`Blog`](https://github.com/lokmanTech/Blog)** Collaboration, Learning, & Sharing: I'll occasionally write blog posts to share my experiences, insights, and challenges. Check this section out for more in-depth narratives. I'm open to collaboration and feedback. Feel free to reach out if you're interested in learning together or if you have valuable insights to share.
+
+### Front-End Development Repositories
+- **[`UI/UX Design Project`](https://github.com/lokmanTech/UI-UX_Design_Project)** A showcase of my UI/UX design project created using Adobe XD
+
+- **[`HTML Templates`](https://github.com/lokmanTech/HTML_Templates)** Website Front Page for All: Well-structured and semantic HTML templates that can serve as a starting point for web projects.
+
+- **[`CSS/SCSS Demonstrations`](https://github.com/lokmanTech/CSS-SCSS_Demonstrations)** Demonstrating CSS Styling Templates: A repository containing various CSS and SCSS styles and components I have created just for you
+
+- **[`JavaScript Development`](https://github.com/lokmanTech/JavaScript_Development)** A collection of JavaScript projects I've developed, demonstrating my coding skills
+
+- **[`Framework or Library Integration`](https://github.com/lokmanTech/Framework_or_Library_Intergration)** An e-commerce web application built with React showcases my front-end development expertise.
+
+- **[`Front-End Continuation`](https://github.com/lokmanTech/Front-End_Continuation)** The continuation of the front-end field ensures workability to achieve the objective. It starts from scratching the UI/UX design process, developing the HMTL pages, Cascade the styles, interactivity and functionality of the web page with JavaScript, integrating the framework with relevant tools, adapting the responsive website, testing the browser to address and compatibility issues or bugs that may arise, enhancing and optimizing the web performance, do accessibility (a11y) check, testing and debugging, use version control systems like Git to track changes, Documentation, prepare project fro deployment  by setting up domain names and ensuring the files are properly hosted.
+
 ### Data Science Repositories
-- **[`Machine Learning Fundamentals`](https://github.com/lokmanTech/Machine_Learning_Fundamentals)** Machine Learning Mastery: Here, I'll document my progress as I deliver into the world of machine learning algorithms and their implementations. I'm excited to understand the intricacies of machine learning algorithms, from linear regression to deep learning. Hands-on projects will be a core aspect of this phase.
+- **[`Machine Learning Fundamentals`](https://github.com/lokmanTech/Machine_Learning_Fundamentals)** Machine learning mastery: Here, I'll document my progress as I dive into the world of machine learning algorithms and their implementations. I'm excited to understand the intricacies of machine learning algorithms, from linear regression to deep learning. Hands-on projects will be a core aspect of this phase.
 
 - **[`Data Wrangling`](https://github.com/lokmanTech/Data_Wrangling)** Data Wrangling: Real-world data is often messy. I'll explore techniques to clean, pre-process, and handle data effectively to ensure its quality and reliability. In this section, I'll showcase how I deal with messy, real-world data and convert it into a usable format.
 
-- **[`Data Visualization`](https://github.com/lokmanTech/Data_Visualization)** Data Visualization: You'll find visualizations I create here to represent data insights effectively. Learning to create compelling visualizations combining with web-developing skill that will be crucial. I aim to tell impactful stories through graphs and charts using libraries like Matplotlib and Seaborn.
+- **[`Data Visualization`](https://github.com/lokmanTech/Data_Visualization)** Data Visualization: You'll find visualizations I create here to represent data insights effectively. Learning to create compelling visualizations combined with web-developing skills will be crucial. I aim to tell impactful stories through graphs and charts using libraries like Matplotlib and Seaborn.
 
 - **[`Advanced Topics`](https://github.com/lokmanTech/Advanced_Topics)** Advanced Topics: As I move forward, this section will contain my explorations of advanced concepts in data science. As I progress, I'll tackle more advanced topics such as natural language processing, computer vision, and reinforcement learning, depending on the direction my interests take.
 
-- **[`Data-Driven Decision Making`](https://github.com/lokmanTech/Data-Driven_Decision_Making)** Master Data-Driven Decision Making: Examples of how data guides strategic decisions. To become proficient in using data to drive strategic business decisions.
+- **[`Data-Driven Decision Making`](https://github.com/lokmanTech/Data-Driven_Decision_Making)** Master Data-Driven Decision Making: Examples of how data guides strategic decisions To become proficient in using data to drive strategic business decisions.
+
 ### Business Skill Development Repositories
-- **[`Business Strategy Optimization`](https://github.com/lokmanTech/Business_Strategy_Optimization)** Navigate the Future with Precision:  Projects focusing on optimizing business strategies for growth. This repository strategically to dive into the world of data-driven, insights and optimization techniques to fine-tune your business strategies. 
+- **[`Business Strategy Optimization`](https://github.com/lokmanTech/Business_Strategy_Optimization)** Navigate the Future with Precision:  Projects focusing on optimizing business strategies for growth This repository is strategic to dive into the world of data-driven insights and optimization techniques to fine-tune your business strategies.
 
-- **[`Market Trends Analysis`](https://github.com/lokmanTech/Market_Trends_Analysis)** Seize Tomorrow's Opportunities Today: In-depth insights into market trends and competitive landscapes. By stay at the forefront of your industry with market trend analysis toolkit help to analyze current market trends, identify emerging opportunities, and make data-driven decisions.
+- **[`Market Trends Analysis`](https://github.com/lokmanTech/Market_Trends_Analysis)** Seize Tomorrow's Opportunities Today: In-depth insights into market trends and competitive landscapes Stay at the forefront of your industry with a market trend analysis toolkit help helps you analyze current market trends, identify emerging opportunities, and make data-driven decisions.
 
-- **[`Business Science Toolbox`](https://github.com/lokmanTech/Business_Science_Toolbox)** Unleash Data-Driven Solutions: Tools and resources I've developed to facilitate data-driven strategies. Whether it's predictive analytics, machine learning, or advanced data visualization, join me learning more about this together.
+- **[`Business Science Toolbox`](https://github.com/lokmanTech/Business_Science_Toolbox)** Unleash Data-Driven Solutions: Tools and resources I've developed to facilitate data-driven strategies Whether it's predictive analytics, machine learning, or advanced data visualization, join me in learning more about this together.
 
 ### Cloud DevOps Engineer Repositories [📛](https://prestariang.qwiklabs.com/public_profiles/ea5f8464-8ae0-426b-8d36-e183cf422554)
 
