@@ -1,12 +1,12 @@
 # Tech Enthusiast and Explorer 🚀
 
-Welcome to my GitHub space! I'm Lokman Hakim which passionate in tech and thrive on the thrill of exploring new horizons in the ever-evolving world of technology. Here, you'll find a collection of my projects, experiments, and ongoing learning journey in tech domains.
+Welcome to my GitHub space! I'm Lokman Hakim which passionate about tech and thrives on the thrill of exploring new horizons in the ever-evolving world of technology. Here, you'll find a collection of my projects, experiments, and ongoing learning journeys in tech domains.
 
 ## 🌟 What I'm All About
 
 **Continuous Learning:** I believe that the journey of knowledge never truly ends. I'm committed to honing my skills, staying current with tech trends, and embracing the spirit of lifelong learning.
 
-**Versatility:** My interests into software development and beyond. I enjoy the versatility of technology and love to dabble in diverse areas.
+**Versatility:** My interest in software development and beyond. I enjoy the versatility of technology and love to dabble in diverse areas.
 
 ## 📁 [`My Portfolio`](https://lokmantech.github.io)
 
@@ -28,13 +28,13 @@ Discover a collection of projects that reflect my skills dedicated in my profess
 
 - **[`HTML Templates`](https://github.com/lokmanTech/HTML_Templates)** Website Front Page for All: Well-structured and semantic HTML templates that can serve as a starting point for web projects.
 
-- **[`CSS/SCSS Demonstrations`](https://github.com/lokmanTech/CSS-SCSS_Demonstrations)** Demonstrating CSS Styling Templates: A repository containing various CSS and SCSS styles and components I have created just for you
+- **[`CSS/SCSS Demonstrations`](https://github.com/lokmanTech/CSS-SCSS_Demonstrations)** Demonstrating CSS styling templates: A repository containing various CSS and SCSS styles and components I have created just for you
 
 - **[`JavaScript Development`](https://github.com/lokmanTech/JavaScript_Development)** A collection of JavaScript projects I've developed, demonstrating my coding skills
 
 - **[`Framework or Library Integration`](https://github.com/lokmanTech/Framework_or_Library_Intergration)** An e-commerce web application built with React showcases my front-end development expertise.
 
-- **[`Front-End Continuation`](https://github.com/lokmanTech/Front-End_Continuation)** The continuation of the front-end field ensures workability to achieve the objective. It starts from scratching the UI/UX design process, developing the HMTL pages, Cascade the styles, interactivity and functionality of the web page with JavaScript, integrating the framework with relevant tools, adapting the responsive website, testing the browser to address and compatibility issues or bugs that may arise, enhancing and optimizing the web performance, do accessibility (a11y) check, testing and debugging, use version control systems like Git to track changes, Documentation, prepare project fro deployment  by setting up domain names and ensuring the files are properly hosted.
+- **[`Front-End Continuation`](https://github.com/lokmanTech/Front-End_Continuation)** The continuation of the front-end field ensures workability to achieve the objective. It starts from scratching the UI/UX design process, developing the HMTL pages, Cascade the styles, interactivity, and functionality of the web page with JavaScript, integrating the framework with relevant tools, adapting the responsive website, testing the browser to address any compatibility issues or bugs that may arise, enhancing and optimizing the web performance, doing an accessibility (a11y) check, testing and debugging, and using version control systems like Git to track changes. Documentation: prepare the project for deployment by setting up domain names and ensuring the files are properly hosted.
 
 ### Data Science Repositories
 - **[`Machine Learning Fundamentals`](https://github.com/lokmanTech/Machine_Learning_Fundamentals)** Machine learning mastery: Here, I'll document my progress as I dive into the world of machine learning algorithms and their implementations. I'm excited to understand the intricacies of machine learning algorithms, from linear regression to deep learning. Hands-on projects will be a core aspect of this phase.
