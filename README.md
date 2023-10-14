@@ -56,15 +56,7 @@ Discover a collection of projects that reflect my skills dedicated to my profess
 - **[`Automation Scripts`](https://github.com/lokmanTech/Automation_Scripts)**: Repositories with scripts for automating routine tasks and workflows in a DevOps context, such as backup and scaling.
 
 
-## 🌐 Get in Touch
+<h2 align="center">Get in Touch With Me - Lokman Hakim</h2>
+<p align="center">Let's explore the endless possibilities that the tech world has to offer together.  Feel free to reach out me via `[email](mailto:lhakim.nazri@gmail.com)` or `[linkedIN](https://www.linkedin.com/in/lhakimnazri/)`! Happy coding!</p>
 
-I'm always open to connecting with fellow tech enthusiasts, collaborating on exciting projects, or simply sharing thoughts on the latest tech trends. Feel free to reach out!
-
-Let's explore the endless possibilities that the tech world has to offer, together.  Feel free to reach out to me on:
-
-- [LinkedIn](https://www.linkedin.com/in/lhakimnazri/)
-- email at lhakim.nazri@gmail.com
-
-Happy coding!
-
-### Lokman Hakim
+[![Lokman Hakim Portfolio](https://lokmantech.github.io/img/footer/Footer.png)](https://lokmantech.github.io)
