@@ -57,6 +57,6 @@ Discover a collection of projects that reflect my skills dedicated to my profess
 
 
 <h2 align="center">Get in Touch With Me - Lokman Hakim</h2>
-<p align="center">Let's explore the endless possibilities that the tech world has to offer together.  Feel free to reach out me via `[email](mailto:lhakim.nazri@gmail.com)` or `[linkedIN](https://www.linkedin.com/in/lhakimnazri/)`! Happy coding!</p>
+<p align="center">Let's explore the endless possibilities that the tech world has to offer together.  Feel free to reach out me via <a href="mailto:lhakim.nazri@gmail.com">email</a> or <a href="https://www.linkedin.com/in/lhakimnazri/">LinkedIN</a>! Happy coding!</p>
 
 [![Lokman Hakim Portfolio](https://lokmantech.github.io/img/footer/Footer.png)](https://lokmantech.github.io)
