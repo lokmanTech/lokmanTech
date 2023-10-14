@@ -17,6 +17,8 @@ Discover a collection of projects that reflect my skills dedicated to my profess
 ### General Repositories
 - **[`Fundamental_of_All`](https://github.com/lokmanTech/Fundamental_of_All)** Learn the fundamentals: This directory contains my initial learning materials, resources, and code snippets as I begin my journey.  I'll start by diving into the basics of data science, cloud engineering, and web development, including statistics, programming languages like Python, and data manipulation libraries like Pandas.
 
+- **[`Front End Development`](https://github.com/lokmanTech/Front-End_Development)** A front-end development repository: This repository is a meticulously organized digital workspace housing HTML, CSS, and JavaScript code, media assets, third-party libraries, and documentation for building and maintaining the user interface of a web application. It integrates version control, issue tracking, testing, and CI/CD, fostering collaborative and efficient front-end development while ensuring consistency and reliability in the user experience.
+
 - **[`Projects`](https://github.com/lokmanTech/Projects)** Projects, Projects, Projects: This is where the magic happens. I'll share my business science projects, complete with explanations, code, and results. These projects aim to showcase my analytical abilities, strategic thinking, and commitment to data-driven decision-making. I believe in learning by doing. I'll be working on hands-on projects that simulate real-world scenarios to apply what I've learned and showcase my skills.
 
 - **[`Resources`](https://github.com/lokmanTech/Resources)** Your Knowledge Hub for Business Success: A curated list of resources that I've found helpful on my journey Feel free to use these to accelerate your own learning.
