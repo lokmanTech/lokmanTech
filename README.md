@@ -41,7 +41,7 @@ Discover a collection of projects that reflect my skills dedicated to my profess
 
 - **[`Business Science Toolbox`](https://github.com/lokmanTech/Business_Science_Toolbox)** Unleash Data-Driven Solutions: Tools and resources I've developed to facilitate data-driven strategies Whether it's predictive analytics, machine learning, or advanced data visualization, join me in learning more about this together.
 
-### Cloud DevOps Engineer Repositories [📛](https://prestariang.qwiklabs.com/public_profiles/ea5f8464-8ae0-426b-8d36-e183cf422554)
+### Cloud Platform Repositories [📛](https://prestariang.qwiklabs.com/public_profiles/ea5f8464-8ae0-426b-8d36-e183cf422554)
 
 - **[`CI/CD Pipelines`](https://github.com/lokmanTech/CI-CD_Pipelines)**: Repositories showcasing CI/CD pipeline configurations, including code for automating build, test, and deployment processes.
 
@@ -52,7 +52,6 @@ Discover a collection of projects that reflect my skills dedicated to my profess
 - **[`Monitoring and Logging`](https://github.com/lokmanTech/Monitoring_and_Logging)**: Repositories with configurations for setting up monitoring and logging solutions on Google Cloud, including alerts and dashboards.
 
 - **[`Automation Scripts`](https://github.com/lokmanTech/Automation_Scripts)**: Repositories with scripts for automating routine tasks and workflows in a DevOps context, such as backup and scaling.
-
 
 
 ## 🌐 Get in Touch
