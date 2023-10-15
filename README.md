@@ -10,7 +10,7 @@ Welcome to my GitHub space! I'm Lokman Hakim who is passionate about tech and th
 
 ## 📁 [`My Portfolio`](https://lokmantech.github.io)
 
-Discover a collection of projects that reflect my skills dedicated to my professional journey, delve into industry insights on my blog, and connect with me to explore collaborative opportunities. For more information, check out my [`Online Portfolio`](https://lokmantech.github.io), and view also my [`Google badge`](https://prestariang.qwiklabs.com/public_profiles/ea5f8464-8ae0-426b-8d36-e183cf422554).
+Discover a collection of projects that reflect my skills dedicated to my professional journey, delve into industry insights on my blog, and connect with me to explore collaborative opportunities. For more information, check out my [`Online Portfolio`](https://lokmantech.github.io), and view also my [`Google badge`](https://prestariang.qwiklabs.com/profile/activity).
 
 ## 🧭 Repository Structure
 
@@ -43,7 +43,7 @@ Discover a collection of projects that reflect my skills dedicated to my profess
 
 - **[`Business Science Toolbox`](https://github.com/lokmanTech/Business_Science_Toolbox)** Unleash Data-Driven Solutions: Tools and resources I've developed to facilitate data-driven strategies Whether it's predictive analytics, machine learning, or advanced data visualization, join me in learning more about this together.
 
-### Cloud Development Repositories [📛](https://prestariang.qwiklabs.com/public_profiles/ea5f8464-8ae0-426b-8d36-e183cf422554)
+### Cloud Development Repositories [📛](https://prestariang.qwiklabs.com/profile/activity)
 
 - **[`CI/CD Pipelines`](https://github.com/lokmanTech/CI-CD_Pipelines)**: Repositories showcasing CI/CD pipeline configurations, including code for automating build, test, and deployment processes.
 
