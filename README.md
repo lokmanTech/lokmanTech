@@ -45,6 +45,8 @@ Discover a collection of projects that reflect my skills dedicated to my profess
 
 ### Cloud Development Repositories [📛](https://prestariang.qwiklabs.com/profile/activity)
 
+- **[`Cloud DevOps Learning Hub`](https://github.com/lokmanTech/Cloud_DevOps_Learning_Hub)**: Cloud DevOps Learning Hub - Your go-to resource for Cloud DevOps knowledge, notes, and progress tracking. Access learning materials, concise notes, and engage with the DevOps community. Start your Cloud DevOps journey now!
+- 
 - **[`CI/CD Pipelines`](https://github.com/lokmanTech/CI-CD_Pipelines)**: Repositories showcasing CI/CD pipeline configurations, including code for automating build, test, and deployment processes.
 
 - **[`Infrastructure as Code (IaC)`](https://github.com/lokmanTech/Infrastructure_as_Code_IaC)**: Repositories containing templates and scripts for provisioning and managing infrastructure on cloud platforms like Google Cloud using IaC tools like Terraform or Deployment Manager.
