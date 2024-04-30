@@ -9,8 +9,9 @@ Passionate about technology-driven solutions. Visit my Notes & Projects for ongo
 #### Projects
 | **Project** | **Description** |
 |:-----------:|:----------------|
-| [FinTrek](https://github.com/lokmanTech/FinTrek)| Personal finance app to track expenses, budgets, and financial goals efficiently and securely.|
-| [AdvisorEase](https://github.com/lokmanTech/AdvisorEase)| Developing a website to aid Takaful advisors in delivering effective presentations for client engagement and education.|
+|[FinTrek](https://github.com/lokmanTech/FinTrek)| Personal finance app to track expenses, budgets, and financial goals efficiently and securely.|
+|[AdvisorEase](https://github.com/lokmanTech/AdvisorEase)| Developing a website to aid Takaful advisors in delivering effective presentations for client engagement and education.|
+|[LokmanWebsite](https://lokmantech.github.io/)| Personal website showcasing projects, skills, and interests. Hosted on GitHub Pages[GitHub Pages](https://github.com/lokmanTech/lokmanTech). |
 
 #### Contact Information
 [LinkedIn](https://www.linkedin.com/in/lhakimnazri)
