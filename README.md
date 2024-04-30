@@ -13,4 +13,4 @@ Eager to learn, grow, and contribute to the creation of sustainable and efficien
 | [`AdvisorEase`](https://github.com/lokmanTech/AdvisorEase) | Developing a website to aid Takaful advisors in delivering effective presentations for client engagement and education.|
 
 ### Contact Information
-[`LinkedIn`](https://www.linkedin.com/in/lhakimnazri)
+[LinkedIn](https://www.linkedin.com/in/lhakimnazri)
