@@ -1,4 +1,4 @@
-![image](https://github.com/lokmanTech/lokmanTech/assets/142791901/9f73fe9d-6931-468c-a4b2-1e9b223fc722)### Hi, I'm Lokman 👋
+### Hi, I'm Lokman 👋
 Eager to learn, grow, and contribute to the creation of sustainable and efficient solutions by integrating technology to tackle complex challenges. Visit my Notes & Projects to see what I'm currently working on.
  
 ### Notes
