@@ -5,3 +5,8 @@ Eager to learn, grow, and contribute to the creation of sustainable and efficien
 |Chapter|Description|
 |:-:|:-:|
 |[`Cloud Foundations`](https://github.com/lokmanTech/cloud_foundations)|Dive into foundational knowledge spanning cloud, data science and web development.|
+
+
+| Left-aligned | Center-aligned | Right-aligned |
+|:-------------|:--------------:|--------------:|
+| Left         | Center         | Right         |
