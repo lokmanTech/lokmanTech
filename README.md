@@ -1,5 +1,5 @@
 ### Hi, I'm Lokman 👋
-Eager to learn, grow, and contribute to the creation of sustainable and efficient solutions by integrating technology to tackle complex challenges. Visit my Notes & Projects to see what I'm currently working on.
+Passionate about technology-driven solutions. Visit my Notes & Projects for ongoing work.
  
 ### Notes
 | **Chapter** | **Descriptions** |
