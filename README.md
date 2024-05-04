@@ -13,9 +13,10 @@ Passionate about technology-driven solutions. Visit my Notes & Projects for ongo
 |[AdvisorEase](https://github.com/lokmanTech/AdvisorEase)| Developing a website to aid Professional Financial advisors in delivering effective presentations for client engagement and education.|
 |[DailyChronicle](https://github.com/lokmanTech/DailyChronicle)| Capture daily moments and reflections effortlessly with a personalized digital journal experience. Visit the [Daily Chronicle](https://lokmanTech.github.io/DailyChronicle) website to access the application.|
 |[PowerBI-Visuals](https://github.com/lokmanTech/PowerBI-Visuals)| Explore dynamic data visualizations crafted with Power BI. Discover engaging charts, graphs, and dashboards conveying insightful data analysis results.|
+|[LokmanWebsite](https://lokmantech.github.io/)| Personal website showcasing projects, skills, and interests. Hosted on [GitHub Pages](https://github.com/lokmanTech/lokmantech.github.io). |
 <!--|[CalcLite](https://github.com/lokmanTech/CalcLite)|  Simple, fast, intuitive basic calculator. Perfect for quick math tasks anytime, anywhere.|-->
 <!--|[ProductivyScape](https://github.com/lokmanTech/ProductivityScape)| Optimize work environment with tailored desktop backgrounds featuring productivity tools, inspiration, and user-centric design.|-->
-|[LokmanWebsite](https://lokmantech.github.io/)| Personal website showcasing projects, skills, and interests. Hosted on [GitHub Pages](https://github.com/lokmanTech/lokmantech.github.io). |
+
 
 
 #### Contact Information
