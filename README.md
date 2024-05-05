@@ -5,6 +5,7 @@ Passionate about technology-driven solutions. Visit my Notes & Projects for ongo
 | **Chapter** | **Descriptions** |
 |:-----------:|:-----------------|
 |[Cloud Foundations](https://github.com/lokmanTech/cloud_foundations)|Dive into foundational knowledge spanning cloud, data science and web development.|
+|[Data Tools](https://github.com/lokmanTech/Data_Tools)| Discover a treasure trove of tools for data enthusiasts. Dive into databases, SQL, and essential data management techniques with Data_Tools. |
 
 #### Projects
 | **Project** | **Description** |
