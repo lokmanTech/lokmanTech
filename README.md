@@ -1,11 +1,5 @@
 ### Hi, I'm Lokman 👋
 Passionate about technology-driven solutions. Visit my Notes & Projects for ongoing work.
- 
-#### Notes
-| **Chapter** | **Descriptions** |
-|:-----------:|:-----------------|
-|[Cloud Foundations](https://github.com/lokmanTech/cloud_foundations)|Dive into foundational knowledge spanning cloud, data science and web development.|
-|[Data Tools](https://github.com/lokmanTech/Data_Tools)| Discover a treasure trove of tools for data enthusiasts. Dive into databases, SQL, and essential data management techniques with Data_Tools. |
 
 #### Projects
 | **Project** | **Description** |
@@ -18,7 +12,11 @@ Passionate about technology-driven solutions. Visit my Notes & Projects for ongo
 |[LokmanWebsite](https://lokmantech.github.io/)| Personal website showcasing projects, skills, and interests. Hosted on [GitHub Pages](https://github.com/lokmanTech/lokmantech.github.io). |
 <!--|[ProductivyScape](https://github.com/lokmanTech/ProductivityScape)| Optimize work environment with tailored desktop backgrounds featuring productivity tools, inspiration, and user-centric design.|-->
 
-
+#### Notes
+| **Chapter** | **Descriptions** |
+|:-----------:|:-----------------|
+|[Cloud Foundations](https://github.com/lokmanTech/cloud_foundations)|Dive into foundational knowledge spanning cloud, data science and web development.|
+|[Data Tools](https://github.com/lokmanTech/Data_Tools)| Discover a treasure trove of tools for data enthusiasts. Dive into databases, SQL, and essential data management techniques with Data_Tools. |
 
 #### Contact Information
 [LinkedIn](https://www.linkedin.com/in/lhakimnazri)
