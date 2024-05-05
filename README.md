@@ -1,5 +1,5 @@
 ### Hi, I'm Lokman 👋
-Passionate about technology-driven solutions. Visit my Notes & Projects for ongoing work.
+Passionate about efficient data solutions. Explore my notes and projects for ongoing work.
 
 #### Projects
 | **Project** | **Description** |
