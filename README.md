@@ -9,7 +9,7 @@ Passionate about efficient data solutions. Explore my notes and projects for ong
 |[DailyChronicle](https://github.com/lokmanTech/DailyChronicle)| Capture daily moments and reflections effortlessly with a personalized digital journal experience. Visit the [Daily Chronicle](https://lokmanTech.github.io/DailyChronicle) website to access the application.|
 |[CalcLite](https://github.com/lokmanTech/CalcLite)|  Simple, fast, intuitive basic calculator. Perfect for quick math tasks anytime, anywhere. Visit the [CalcLite](https://lokmanTech.github.io/CalcLite) website to access the application.|
 |[PowerBI-Visuals](https://github.com/lokmanTech/PowerBI-Visuals)| Explore dynamic data visualizations crafted with Power BI. Discover engaging charts, graphs, and dashboards conveying insightful data analysis results.|
-|[ProductivyScape](https://www.behance.net/gallery/197843689/ProductivityScape)| Optimize work environment with tailored desktop backgrounds featuring productivity tools, inspiration, and user-centric design.|
+|[ProductivityScape](https://www.behance.net/gallery/197843689/ProductivityScape)| Optimize work environment with tailored desktop backgrounds featuring productivity tools, inspiration, and user-centric design.|
 |[LokmanWebsite](https://lokmantech.github.io/)| Personal website showcasing projects, skills, and interests. Hosted on [GitHub Pages](https://github.com/lokmanTech/lokmantech.github.io). |
 
 #### Notes
