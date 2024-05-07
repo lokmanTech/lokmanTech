@@ -18,7 +18,7 @@ Passionate about efficient data solutions. Explore my notes and projects for ong
 |[Cloud Foundations](https://github.com/lokmanTech/cloud_foundations)|Dive into foundational knowledge spanning cloud, data science and web development.|
 |[Data Tools](https://github.com/lokmanTech/Data_Tools)| Discover a treasure trove of tools for data enthusiasts. Dive into databases, SQL, and essential data management techniques with Data_Tools. |
 
-#### My Badges
+#### Badges
 <a href="https://www.credly.com/badges/87fb9d96-6856-4b65-b052-0c60ba687e5c/public_url">
   <img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start" width="100px" height="100px">
 </a>
