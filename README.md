@@ -1,5 +1,5 @@
 ### Hi, I'm Lokman 👋
-Passionate about efficient data solutions. Explore my notes and projects for ongoing work.
+Passionate about efficient data solutions. Explore my projects, notes & badges for ongoing work.
 
 #### Projects
 | **Project** | **Description** |
