@@ -19,9 +19,7 @@ Passionate about efficient data solutions. Explore my notes and projects for ong
 |[Data Tools](https://github.com/lokmanTech/Data_Tools)| Discover a treasure trove of tools for data enthusiasts. Dive into databases, SQL, and essential data management techniques with Data_Tools. |
 
 #### My Badges
-![AWS re/Start](https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png){:width="200px" height="200px"}
-
-<img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start" width="200px" height="200px">
+<img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start" width="100px" height="100px">
 
 #### Contact Information
 [LinkedIn](https://www.linkedin.com/in/lhakimnazri)
