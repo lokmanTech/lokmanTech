@@ -15,7 +15,7 @@ Passionate about efficient data solutions. Explore my notes and projects for ong
 #### Notes
 | **Chapter** | **Descriptions** |
 |:-----------:|:-----------------|
-|[Cloud Notes](https://github.com/lokmanTech/Cloud_Notes)|Dive into foundational knowledge spanning cloud, data science and web development.|
+|[CloudNotes](https://github.com/lokmanTech/Cloud_Notes)|Dive into foundational knowledge spanning cloud, data science and web development.|
 |[Data Tools](https://github.com/lokmanTech/Data_Tools)| Discover a treasure trove of tools for data enthusiasts. Dive into databases, SQL, and essential data management techniques with Data_Tools. |
 
 #### Badges
