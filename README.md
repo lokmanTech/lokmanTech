@@ -21,5 +21,7 @@ Passionate about efficient data solutions. Explore my notes and projects for ong
 #### My Badges
 ![AWS re/Start](https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png){:width="200px" height="200px"}
 
+<img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start" width="200px" height="200px">
+
 #### Contact Information
 [LinkedIn](https://www.linkedin.com/in/lhakimnazri)
