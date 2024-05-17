@@ -4,7 +4,7 @@ Passionate about efficient data solutions. Explore my projects, notes & badges f
 #### Projects
 | **Project** | **Description** |
 |:-----------:|:----------------|
-|[FinTrek](https://github.com/lokmanTech/FinTrek)| Personal finance app to track expenses, budgets, and financial goals efficiently and securely.|
+|[FinTrek](https://github.com/lokmanTech/FinTrek)| Personal finance app to track expenses, budgets, and financial goals efficiently and securely. Visit the [Fintrek](https://lokmanTech.github.io/Fintrek) website to access the application.|
 |[AdvisorEase](https://github.com/lokmanTech/AdvisorEase)| Developing a website to aid Professional Financial advisors in delivering effective presentations for client engagement and education.|
 |[DailyChronicle](https://github.com/lokmanTech/DailyChronicle)| Capture daily moments and reflections effortlessly with a personalized digital journal experience. Visit the [Daily Chronicle](https://lokmanTech.github.io/DailyChronicle) website to access the application.|
 |[CalcLite](https://github.com/lokmanTech/CalcLite)|  Simple, fast, intuitive basic calculator. Perfect for quick math tasks anytime, anywhere. Visit the [CalcLite](https://lokmanTech.github.io/CalcLite) website to access the application.|
