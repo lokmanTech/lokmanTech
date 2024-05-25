@@ -15,6 +15,7 @@ Passionate about efficient data solutions. Explore my projects, notes & badges f
 #### Notes
 | **Chapter** | **Descriptions** |
 |:-----------:|:-----------------|
+|[Programming Notes](https://github.com/lokmanTech/programming_notes)|A collection of notes and resources on learning Python 3, including code snippets, tutorials, and best practices. Ideal for beginners and enthusiasts to enhance their programming skills.|
 |[Cloud_Notes](https://github.com/lokmanTech/Cloud_Notes)|Dive into foundational knowledge spanning cloud, data science and web development.|
 |[Data Tools](https://github.com/lokmanTech/Data_Tools)| Discover a treasure trove of tools for data enthusiasts. Dive into databases, SQL, and essential data management techniques with Data_Tools. |
 |[LeetCode](https://github.com/lokmanTech/LeetCode) | LeetCode problem solutions with detailed explanations and optimized algorithms for efficient problem-solving.|
