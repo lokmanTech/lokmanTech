@@ -24,9 +24,10 @@ Passionate about efficient data solutions. Explore my projects, notes & badges f
 |:----------:|:-----------------:|:------:|:---------------:|:-------------:|
 |    <a href="https://www.credly.com/badges/87fb9d96-6856-4b65-b052-0c60ba687e5c/public_url"><img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start" width="100px" height="100px"></a>    |     <a href="https://learn.microsoft.com/api/achievements/share/en-us/MUHAMMADLOKMANHAKIMBINNAZRI-5956/9FVEM6EU?sharingId=E0A348074975FB77"><img src="https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg" alt="Microsoft Azure AI Fundamentals: Generative AI" width="100px" height="100px"></a>     |      <a href="https://learn.microsoft.com/api/achievements/share/en-us/MUHAMMADLOKMANHAKIMBINNAZRI-5956/PS3WHMG4?sharingId=E0A348074975FB77"><img src="https://learn.microsoft.com/en-us/learn/achievements/get-started-with-artificial-intelligence-on-azure.svg" alt="Microsoft Azure AI Fundamentals: AI Overview" width="100px" height="100px"></a>     |      <a href="https://learn.microsoft.com/api/achievements/share/en-us/MUHAMMADLOKMANHAKIMBINNAZRI-5956/3YQ4PJNH?sharingId=E0A348074975FB77"><img src="https://learn.microsoft.com/en-us/training/achievements/develop-ai-solutions-azure-openai.svg" alt="Develop Generative AI Solutions with Azure OpenAI Service" width="100px" height="100px"></a>     |      <a href="https://learn.microsoft.com/api/achievements/share/en-us/MUHAMMADLOKMANHAKIMBINNAZRI-5956/8APBKTAW?sharingId=E0A348074975FB77"><img src="https://learn.microsoft.com/en-us/training/achievements/extract-data-from-forms-use-form-recognizer.svg" alt="Develop Solutions with Azure AI Document Intelligence" width="100px" height="100px"></a>     |
 
+<!--
 <a href=""><img src="" alt="" width="100px" height="100px"></a>
 
-<!--#### Certifications
+#### Certifications
 
 A compilation of my completed courses and certifications, showcasing skills in programming, data science, and more. Dedicated to continuous learning and professional growth across diverse domains.-->
 
