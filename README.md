@@ -24,5 +24,9 @@ Passionate about efficient data solutions. Explore my projects, notes & badges f
 |:----------:|
 |<a href="https://www.credly.com/badges/87fb9d96-6856-4b65-b052-0c60ba687e5c/public_url"><img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start" width="100px" height="100px"></a>|
 
+<!--#### Certifications
+
+A compilation of my completed courses and certifications, showcasing skills in programming, data science, and more. Dedicated to continuous learning and professional growth across diverse domains.-->
+
 #### Contact Information
 [LinkedIn](https://www.linkedin.com/in/lhakimnazri)
