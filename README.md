@@ -20,9 +20,9 @@ Passionate about efficient data solutions. Explore my projects, notes & badges f
 |[LeetCode](https://github.com/lokmanTech/LeetCode) | LeetCode problem solutions with detailed explanations and optimized algorithms for efficient problem-solving.|
 
 #### Badges
-|AWS re/Start|
-|:----------:|
-|<a href="https://www.credly.com/badges/87fb9d96-6856-4b65-b052-0c60ba687e5c/public_url"><img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start" width="100px" height="100px"></a>|
+|AWS re/Start|Microsoft Gen AI Solutions|
+|:----------:|:------------------------:|
+|<a href="https://www.credly.com/badges/87fb9d96-6856-4b65-b052-0c60ba687e5c/public_url"><img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start" width="100px" height="100px"></a>|<a href="https://learn.microsoft.com/api/achievements/share/en-us/MUHAMMADLOKMANHAKIMBINNAZRI-5956/3YQ4PJNH?sharingId=E0A348074975FB77"><img src="https://learn.microsoft.com/en-us/training/achievements/develop-ai-solutions-azure-openai.svg" alt="Develop Generative AI Solutions with Azure OpenAI service" width="100px" height="100px"></a>|
 
 <!--#### Certifications
 
