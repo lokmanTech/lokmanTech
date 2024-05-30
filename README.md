@@ -15,9 +15,9 @@ Passionate about efficient data solutions. Explore my projects, notes & badges f
 #### Notes
 | **Chapter** | **Descriptions** |
 |:-----------:|:-----------------|
-|[Programming_Notes](https://github.com/lokmanTech/programming_notes)|A collection of notes and resources on learning Python & SQL, including code snippets, tutorials, and best practices. Ideal for beginners and enthusiasts to enhance their programming skills.|
+|[Ultimate_Notes](https://github.com/lokmanTech/programming_notes)|A collection of notes and resources on learning Python, SQL & many more, including code snippets, tutorials, and best practices. Ideal for beginners and enthusiasts to enhance programming skills.|
 |[Cloud_Notes](https://github.com/lokmanTech/Cloud_Notes)|Dive into foundational knowledge spanning cloud, data science and web development.|
-|[LeetCode](https://github.com/lokmanTech/LeetCode) | LeetCode problem solutions with detailed explanations and optimized algorithms for efficient problem-solving.|
+|[Python_Library](https://github.com/lokmanTech/LeetCode) | Pyhton problem problem & solution with detailed explanations and optimized algorithms for efficient problem-solving.|
 
 #### Badges
 |AWS re/Start|Gen AI Fundamentals|Azure AI|Gen AI with Azure|AI Doc Solution|
