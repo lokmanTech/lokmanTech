@@ -5,11 +5,11 @@ Passionate about efficient data solutions. Explore my projects, notes & badges f
 | **Project** | **Description** |
 |:-----------:|:----------------|
 |[YouTube Data Engineering](https://github.com/lokmanTech/youtube_data_engineering)| End-to-end YouTube data engineering project covering ingestion, AWS data lake, ETL, scalability, and reporting with Python and AWS services.|
+|[PowerBI-Visuals](https://github.com/lokmanTech/PowerBI-Visuals)| Explore dynamic data visualizations crafted with Power BI. Discover engaging charts, graphs, and dashboards conveying insightful data analysis results.|
 |[FinTrek](https://github.com/lokmanTech/FinTrek)| Personal finance app to track expenses, budgets, and financial goals efficiently and securely. Visit the [FinTrek](https://lokmanTech.github.io/FinTrek) website to access the application.|
 |[AdvisorEase](https://github.com/lokmanTech/AdvisorEase)| Developing a website to aid Professional Financial advisors in delivering effective presentations for client engagement and education. Visit the [AdvisorEase](https://lokmanTech.github.io/AdvisorEase) website to access the application.|
 |[DailyChronicle](https://github.com/lokmanTech/DailyChronicle)| Capture daily moments and reflections effortlessly with a personalized digital journal experience. Visit the [Daily Chronicle](https://lokmanTech.github.io/DailyChronicle) website to access the application.|
 |[CalcLite](https://github.com/lokmanTech/CalcLite)|  Simple, fast, intuitive basic calculator. Perfect for quick math tasks anytime, anywhere. Visit the [CalcLite](https://lokmanTech.github.io/CalcLite) website to access the application.|
-|[PowerBI-Visuals](https://github.com/lokmanTech/PowerBI-Visuals)| Explore dynamic data visualizations crafted with Power BI. Discover engaging charts, graphs, and dashboards conveying insightful data analysis results.|
 |[ProductivityScape](https://github.com/lokmanTech/ProductivityScape) | Optimize work environment with tailored desktop backgrounds featuring productivity tools, inspiration, and user-centric design.|
 |[LokmanWebsite](https://lokmantech.github.io/)| Personal website showcasing projects, skills, and interests. Hosted on [GitHub Pages](https://github.com/lokmanTech/lokmantech.github.io). |
 
