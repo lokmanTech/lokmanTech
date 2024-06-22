@@ -4,6 +4,7 @@ Passionate about efficient data solutions. Explore my projects, notes & badges f
 #### Projects
 | **Project** | **Description** |
 |:-----------:|:----------------|
+|[Spotify Data Engineering](https://github.com/lokmanTech/spotify_data_engineering)| This repository contains an end-to-end data engineering project using AWS Cloud and PySpark, from Spotify data information.|
 |[YouTube Data Engineering](https://github.com/lokmanTech/youtube_data_engineering)| End-to-end YouTube data engineering project covering ingestion, AWS data lake, ETL, scalability, and reporting with Python and AWS services.|
 |[PowerBI-Visuals](https://github.com/lokmanTech/PowerBI-Visuals)| Explore dynamic data visualizations crafted with Power BI. Discover engaging charts, graphs, and dashboards conveying insightful data analysis results.|
 |[FinTrek](https://github.com/lokmanTech/FinTrek)| Personal finance app to track expenses, budgets, and financial goals efficiently and securely. Visit the [FinTrek](https://lokmanTech.github.io/FinTrek) website to access the application.|
