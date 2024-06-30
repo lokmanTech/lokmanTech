@@ -6,7 +6,7 @@ Passionate about efficient data solutions. Explore my projects, notes & badges f
 |:-----------:|:----------------|
 |[Fitness Tracker ML](https://github.com/lokmanTech/fitness_tracker_ml)|`[In-Progress]` Machine learning project that tracks fitness activities. The project demonstrates the process of building a fitness tracker using Python and machine learning techniques.|
 |[YouTube Data Engineering](https://github.com/lokmanTech/youtube_data_engineering)| End-to-end YouTube data engineering project covering ingestion, AWS data lake, ETL, scalability, and reporting with Python and AWS services.|
-|[Spotify Data Engineering](https://github.com/lokmanTech/spotify_data_engineering)| `[In-Progress]` This repository contains an end-to-end data engineering project using AWS Cloud and PySpark, from Spotify data information.|
+|[Spotify Data Engineering](https://github.com/lokmanTech/spotify_data_engineering)| This repository contains an end-to-end data engineering project using AWS Cloud and PySpark, from Spotify data information.|
 |[PowerBI-Visuals](https://github.com/lokmanTech/PowerBI-Visuals)| Explore dynamic data visualizations crafted with Power BI. Discover engaging charts, graphs, and dashboards conveying insightful data analysis results.|
 |[Hosting via S3](https://github.com/lokmanTech/hosting_via_s3)|Guide to setting up a static website on Amazon S3.|
 |[FinTrek](https://github.com/lokmanTech/FinTrek)| Personal finance app to track expenses, budgets, and financial goals efficiently and securely. Visit the [FinTrek](https://lokmanTech.github.io/FinTrek) website to access the application.|
