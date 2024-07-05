@@ -24,6 +24,7 @@ Passionate about efficient data solutions. Explore my projects, notes & badges f
 |[Ultimate_Notes](https://github.com/lokmanTech/programming_notes)|A collection of notes and resources on learning Python, SQL & many more, including code snippets, tutorials, and best practices. Ideal for beginners and enthusiasts to enhance programming skills.|
 |[Cloud_Notes](https://github.com/lokmanTech/Cloud_Notes)|Dive into foundational knowledge spanning cloud, data science and web development.|
 |[Python_Library](https://github.com/lokmanTech/LeetCode) | Pyhton problem problem & solution with detailed explanations and optimized algorithms for efficient problem-solving.|
+|[DE ZoomCamp](https://github.com/lokmanTech/DE_Zoomcamp)| Intensive and immersive bootcamp designed for aspiring `data engineers`. This program is crafted to equip you with the essential skills and knowledge required to excel in the field of data engineering.|
 
 #### Badges
 |AWS re/Start|Gen AI Fundamentals|Azure AI|Gen AI with Azure|AI Doc Solution|
