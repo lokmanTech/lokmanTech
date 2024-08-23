@@ -4,6 +4,7 @@ Passionate about efficient data solutions. Explore my projects, notes & badges f
 #### Projects
 | **Project** | **Description** |
 |:-----------:|:----------------|
+|[Investment app - KWSP](https://github.com/dablajumak/01_KWSP)|`[In-Progress]` Enhanced version of the existing KWSP retirement calculation.|
 |[ML - Fitness Tracker](https://github.com/lokmanTech/fitness_tracker_ml)|`[In-Progress]` Machine learning project that tracks fitness activities. The project demonstrates the process of building a fitness tracker using Python and machine learning techniques.|
 |[Data Engineering - Spotify Project](https://github.com/lokmanTech/spotify_data_engineering)| This repository contains an end-to-end data engineering project using AWS Cloud and PySpark, from Spotify data information.|
 |[Data Visualization - Spotfiy Project](https://github.com/lokmanTech/spotify_visualization)| Upon completing end-to-end data engineering process, the most important part is ability to produce visualization that audience can collect info from it.|
