@@ -1,22 +1,22 @@
 ### Hi, I'm Lokman 👋
-Passionate about efficient data solutions. Explore my projects, notes & badges for ongoing work.
+Some stories aren’t told — they’re built.
 
 #### Projects
 | **Project** | **Description** |
 |:-----------:|:----------------|
 |[Investment app - KWSP](https://github.com/dablajumak/01_KWSP)|`[In-Progress]` Enhanced version of the existing KWSP retirement calculation.|
-|[ML - Fitness Tracker](https://github.com/lokmanTech/fitness_tracker_ml)|`[In-Progress]` Machine learning project that tracks fitness activities. The project demonstrates the process of building a fitness tracker using Python and machine learning techniques.|
-|[Data Engineering - Spotify Project](https://github.com/lokmanTech/spotify_data_engineering)| This repository contains an end-to-end data engineering project using AWS Cloud and PySpark, from Spotify data information.|
-|[Data Visualization - Spotfiy Project](https://github.com/lokmanTech/spotify_visualization)| Upon completing end-to-end data engineering process, the most important part is ability to produce visualization that audience can collect info from it.|
-|[Data Engineering - YouTube Project](https://github.com/lokmanTech/youtube_data_engineering)| End-to-end YouTube data engineering project covering ingestion, AWS data lake, ETL, scalability, and reporting with Python and AWS services.|
-|[PowerBI-Visuals](https://github.com/lokmanTech/PowerBI-Visuals)| Explore dynamic data visualizations crafted with Power BI. Discover engaging charts, graphs, and dashboards conveying insightful data analysis results.|
-|[Hosting via S3](https://github.com/lokmanTech/hosting_via_s3)|Guide to setting up a static website on Amazon S3.|
-|[FinTrek](https://github.com/lokmanTech/FinTrek)| Personal finance app to track expenses, budgets, and financial goals efficiently and securely. Visit the [FinTrek](https://lokmanTech.github.io/FinTrek) website to access the application.|
-|[AdvisorEase](https://github.com/lokmanTech/AdvisorEase)| Developing a website to aid Professional Financial advisors in delivering effective presentations for client engagement and education. Visit the [AdvisorEase](https://lokmanTech.github.io/AdvisorEase) website to access the application.|
-|[DailyChronicle](https://github.com/lokmanTech/DailyChronicle)| Capture daily moments and reflections effortlessly with a personalized digital journal experience. Visit the [Daily Chronicle](https://lokmanTech.github.io/DailyChronicle) website to access the application.|
-|[CalcLite](https://github.com/lokmanTech/CalcLite)|  Simple, fast, intuitive basic calculator. Perfect for quick math tasks anytime, anywhere. Visit the [CalcLite](https://lokmanTech.github.io/CalcLite) website to access the application.|
-|[ProductivityScape](https://github.com/lokmanTech/ProductivityScape) | Optimize work environment with tailored desktop backgrounds featuring productivity tools, inspiration, and user-centric design.|
-|[LokmanWebsite](https://lokmantech.github.io/)| Personal website showcasing projects, skills, and interests. Hosted on [GitHub Pages](https://github.com/lokmanTech/lokmantech.github.io). |
+|[ML - Fitness Tracker](https://github.com/lokmanTech/fitness_tracker_ml)|`[In-Progress]` Machine learning project to track fitness activities using Python and ML techniques.|
+|[Data Engineering - Spotify Project](https://github.com/lokmanTech/spotify_data_engineering)| End-to-end data engineering pipeline using AWS and PySpark with Spotify data.|
+|[Data Visualization - Spotfiy Project](https://github.com/lokmanTech/spotify_visualization)| Insightful visual storytelling from engineered Spotify data.|
+|[Data Engineering - YouTube Project](https://github.com/lokmanTech/youtube_data_engineering)| YouTube data pipeline with ingestion, ETL, and reporting using AWS + Python.|
+|[PowerBI-Visuals](https://github.com/lokmanTech/PowerBI-Visuals)| Dynamic dashboards and visuals using Power BI.|
+|[Hosting via S3](https://github.com/lokmanTech/hosting_via_s3)|How to host a static website on Amazon S3.|
+|[FinTrek](https://github.com/lokmanTech/FinTrek)| Personal finance tracker for budgets, goals & expenses. [View App](https://lokmanTech.github.io/FinTrek).|
+|[AdvisorEase](https://github.com/lokmanTech/AdvisorEase)| Presentation tool for financial advisors. [View App](https://lokmanTech.github.io/AdvisorEase).|
+|[DailyChronicle](https://github.com/lokmanTech/DailyChronicle)| Digital journal to record your daily thoughts. [View App](https://lokmanTech.github.io/DailyChronicle).|
+|[CalcLite](https://github.com/lokmanTech/CalcLite)|  Minimalist calculator for quick calculations. [View App](https://lokmanTech.github.io/CalcLite).|
+|[ProductivityScape](https://github.com/lokmanTech/ProductivityScape) | Desktop wallpapers designed for focus & inspiration.|
+|[LokmanWebsite](https://lokmantech.github.io/)| My personal website, hosted on GitHub Pages. [Source](https://github.com/lokmanTech/lokmantech.github.io).|
 
 #### Notes
 | **Chapter** | **Descriptions** |
@@ -37,6 +37,3 @@ Passionate about efficient data solutions. Explore my projects, notes & badges f
 #### Certifications
 
 A compilation of my completed courses and certifications, showcasing skills in programming, data science, and more. Dedicated to continuous learning and professional growth across diverse domains.-->
-
-#### Contact Information
-[LinkedIn](https://www.linkedin.com/in/lhakimnazri)
