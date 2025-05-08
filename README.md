@@ -17,15 +17,23 @@ Some stories aren’t told — they’re built.
 |[CalcLite](https://github.com/lokmanTech/CalcLite)|  Minimalist calculator for quick calculations. [View App](https://lokmanTech.github.io/CalcLite).|
 |[ProductivityScape](https://github.com/lokmanTech/ProductivityScape) | Desktop wallpapers designed for focus & inspiration.|
 |[LokmanWebsite](https://lokmantech.github.io/)| My personal website, hosted on GitHub Pages. [Source](https://github.com/lokmanTech/lokmantech.github.io).|
-<!--
+
 #### Notes
 | **Chapter** | **Descriptions** |
 |:-----------:|:-----------------|
+|[Computer Science](https://github.com/lokmanTech/cs_notes)|Core Computer Science concepts like algorithms, data structures, and programming.|
+|[Architectural Studies (Building)](https://github.com/lokmanTech/arch_building_notes)|Notes on building architecture, design principles, and construction methods.|
+|[Real Estate](https://github.com/lokmanTech/real_estate_notes)|Insights and strategies from my experience as a real estate negotiator.|
+|[Takaful](https://github.com/lokmanTech/takaful_notes)|Key concepts and practices in takaful (Islamic insurance).|
+|[Manufacturing](https://github.com/lokmanTech/production_exec_notes)|Production processes and quality control from my food manufacturing experience.|
+
+<!--
 |[Ultimate_Notes](https://github.com/lokmanTech/programming_notes)|A collection of notes and resources on learning Python, SQL & many more, including code snippets, tutorials, and best practices. Ideal for beginners and enthusiasts to enhance programming skills.|
 |[Cloud_Notes](https://github.com/lokmanTech/Cloud_Notes)|Dive into foundational knowledge spanning cloud, data science and web development.|
 |[Python_Library](https://github.com/lokmanTech/LeetCode) | Pyhton problem problem & solution with detailed explanations and optimized algorithms for efficient problem-solving.|
 |[DE ZoomCamp](https://github.com/lokmanTech/DE_Zoomcamp)| Intensive and immersive bootcamp designed for aspiring `data engineers`. This program is crafted to equip you with the essential skills and knowledge required to excel in the field of data engineering.|
 -->
+
 #### Badges
 |AWS re/Start|Gen AI Fundamentals|Azure AI|Gen AI with Azure|AI Doc Solution|DA Bootcamp|
 |:----------:|:-----------------:|:------:|:---------------:|:-------------:|:---------:|
